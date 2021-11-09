@@ -16,6 +16,8 @@ The purpose of this election audit was to analyze the results of a local congres
     - Doane: 11,606 votes, 3.1% of total
 - Winner: Diana DeGette with 272,892 votes and 73.8% of total votes. 
 
+<img src="Resources/Results-img.png">
+
 ## 3. Election-Audit Summary
 
 Election Commissioner:
